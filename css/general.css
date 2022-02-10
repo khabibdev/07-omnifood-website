@@ -214,10 +214,6 @@ strong {
     box-shadow: 0 0 0 0.8rem rgb(230, 125, 34, 0.5);
 }
 
-.hero-img {
-    width: 100%;
-}
-
 .link:link,
 .link:visited {
     display: inline-block;
